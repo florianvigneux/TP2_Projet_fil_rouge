@@ -1,6 +1,6 @@
 # 📌 Projet fil rouge
 ### Auteur : Vigneux Florian
-## 📝 Description et méthodes utilisées pour le projet
+## 📝 Description et méthodes utilisées
 ### 🎯 Objectif
 Réaliser un site web fidèle à une maquête fournie.
 ### 🚀 Languages
