@@ -94,6 +94,10 @@ main nav button:hover{
     transition: .8s;
 }
 
+main nav button:nth-child(1) {
+    background-color: var(--accent_color);
+}
+
 main h2 span {
     color: var(--accent_color);
 }
