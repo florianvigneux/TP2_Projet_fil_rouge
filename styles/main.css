@@ -1,24 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
-/* Light mode - Dark mode */
+/* Dark mode */
+
 :root {
     --accent_color:#3ce6b2;
     --other_color: #808080;
-    --main_color: #323232;
-    --background: #fafbfb;
-    --background_button_hover: rgba(33, 33, 33, 0.1);
+    --main_color: #e8e6e3;
+    --background: #041821;
+    --background_button_hover: rgba(255, 255, 255, 0.1);
 }
 
-@media (prefers-color-scheme: dark) {
-    :root {
-        --accent_color:#3ce6b2;
-        --other_color: #808080;
-        --main_color: #e8e6e3;
-        --background: #041821;
-        --background_button_hover: rgba(255, 255, 255, 0.1);
-    }
-}
 
 
 /* Header */
